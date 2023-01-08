@@ -1,2 +1,2 @@
 # Demo
-Sample folder for learing github.
+Sample folder for learing github!
